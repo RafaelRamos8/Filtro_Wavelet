@@ -31,6 +31,8 @@ Desafio: Compare a imagem original com a imagem reconstruída. Avalie a qualidad
 
 
 A imagem à direita mostra a versão reconstruída após aplicar a Transformada Wavelet, mantendo apenas o componente de baixa frequência (LL).
+
 **Imagem Original (Esquerda):** Exibe todos os detalhes da imagem, incluindo bordas e texturas finas (como os pelos do animal).
+
 **Imagem Reconstruída (Direita):** Perdeu alguns dos detalhes mais finos suavizando a imagem, mas mantém a estrutura geral da imagem. Essa suavização ocorre porque os componentes de alta frequência (LH, HL, HH), que carregam detalhes, foram descartados.
 
